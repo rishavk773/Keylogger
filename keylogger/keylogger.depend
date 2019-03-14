@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1552221468 source:c:\users\rishav\documents\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1548568532 c:\users\rishav\documents\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1552221262 c:\users\rishav\documents\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1548568396 c:\users\rishav\documents\keylogger\base64.h
+	<vector>
+	<string>
+
+1548571794 c:\users\rishav\documents\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1548691187 c:\users\rishav\documents\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1552227875 c:\users\rishav\documents\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1552221581 c:\users\rishav\documents\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+
